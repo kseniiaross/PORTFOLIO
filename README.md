@@ -55,7 +55,8 @@ Project Structure
 │   ├── introduction.css
 │   ├── projects.css
 │   └── skills.css
-│
+├── /docs
+│   └── tresse-ecommerce-platform.pdf
 ├── /images
 │   ├── background1.jpg
 │   ├── github.png
